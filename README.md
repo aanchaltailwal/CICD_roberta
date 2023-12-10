@@ -1,3 +1,3 @@
 # CICD_roberta
 
-Roberta Application for the practice of the pipelines
+Roberta Application for the practice of the jenkins pipelines
